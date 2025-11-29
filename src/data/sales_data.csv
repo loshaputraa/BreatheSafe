@@ -1,0 +1,101 @@
+OrderID,Product,Category,Price,Quantity,OrderDate,CustomerID
+1,Mouse,Accessories,25.00,3,2024-03-19,CUST-481
+2,Keyboard,Accessories,75.00,1,2023-11-29,CUST-808
+3,Docking Station,Accessories,150.00,4,2023-09-08,CUST-861
+4,Laptop,Computers,1200.00,4,2023-10-18,CUST-396
+5,Power Adapter,Accessories,45.00,4,2024-07-06,CUST-111
+6,USB Cable,Accessories,15.00,4,2023-10-09,CUST-617
+7,Webcam,Peripherals,60.00,3,2024-02-14,CUST-210
+8,Mouse,Accessories,25.00,2,2024-04-20,CUST-239
+9,Docking Station,Accessories,150.00,3,2023-10-10,CUST-348
+10,Mouse,Accessories,25.00,5,2024-01-20,CUST-196
+11,Monitor,Peripherals,300.00,5,2024-01-05,CUST-755
+12,USB Cable,Accessories,15.00,1,2023-12-07,CUST-418
+13,Webcam,Peripherals,60.00,5,2024-06-25,CUST-486
+14,Keyboard,Accessories,75.00,4,2023-08-16,CUST-723
+15,USB Cable,Accessories,15.00,4,2023-12-14,CUST-983
+16,Webcam,Peripherals,60.00,3,2024-02-13,CUST-742
+17,Keyboard,Accessories,75.00,2,2024-07-09,CUST-369
+18,Laptop,Computers,1200.00,5,2024-07-16,CUST-581
+19,External Hard Drive,Peripherals,90.00,5,2024-03-12,CUST-984
+20,Laptop,Computers,1200.00,4,2024-02-14,CUST-119
+21,Keyboard,Accessories,75.00,3,2024-03-24,CUST-134
+22,Monitor,Peripherals,300.00,3,2023-09-17,CUST-551
+23,Headphones,Audio,120.00,1,2023-12-25,CUST-986
+24,Laptop,Computers,1200.00,2,2023-11-22,CUST-324
+25,Power Adapter,Accessories,45.00,2,2024-03-27,CUST-143
+26,Docking Station,Accessories,150.00,4,2024-02-09,CUST-500
+27,Monitor,Peripherals,300.00,5,2024-02-09,CUST-428
+28,Headphones,Audio,120.00,4,2023-11-13,CUST-299
+29,Webcam,Peripherals,60.00,5,2024-01-26,CUST-987
+30,Headphones,Audio,120.00,5,2024-02-23,CUST-985
+31,Docking Station,Accessories,150.00,5,2024-05-18,CUST-932
+32,Laptop,Computers,1200.00,2,2023-12-07,CUST-411
+33,Headphones,Audio,120.00,2,2023-12-01,CUST-944
+34,Webcam,Peripherals,60.00,2,2024-05-24,CUST-445
+35,Headphones,Audio,120.00,3,2024-05-02,CUST-861
+36,Laptop,Computers,1200.00,1,2023-12-23,CUST-457
+37,USB Cable,Accessories,15.00,2,2023-09-08,CUST-577
+38,Laptop,Computers,1200.00,2,2024-05-14,CUST-529
+39,External Hard Drive,Peripherals,90.00,1,2024-03-23,CUST-294
+40,Keyboard,Accessories,75.00,3,2024-03-12,CUST-368
+41,Webcam,Peripherals,60.00,1,2024-07-22,CUST-968
+42,Keyboard,Accessories,75.00,5,2023-11-17,CUST-282
+43,Monitor,Peripherals,300.00,3,2024-07-06,CUST-283
+44,Monitor,Peripherals,300.00,4,2023-11-17,CUST-650
+45,Power Adapter,Accessories,45.00,2,2023-08-27,CUST-497
+46,Headphones,Audio,120.00,5,2024-06-25,CUST-721
+47,Mouse,Accessories,25.00,3,2023-11-18,CUST-410
+48,Power Adapter,Accessories,45.00,3,2023-11-10,CUST-490
+49,USB Cable,Accessories,15.00,1,2024-03-11,CUST-387
+50,Laptop,Computers,1200.00,5,2023-09-02,CUST-351
+51,Docking Station,Accessories,150.00,1,2023-08-20,CUST-192
+52,Keyboard,Accessories,75.00,2,2024-04-20,CUST-156
+53,Docking Station,Accessories,150.00,1,2024-05-24,CUST-999
+54,Keyboard,Accessories,75.00,3,2023-08-25,CUST-695
+55,External Hard Drive,Peripherals,90.00,1,2024-02-18,CUST-806
+56,Webcam,Peripherals,60.00,3,2024-01-26,CUST-245
+57,Power Adapter,Accessories,45.00,2,2024-05-27,CUST-176
+58,External Hard Drive,Peripherals,90.00,3,2023-11-20,CUST-780
+59,Power Adapter,Accessories,45.00,3,2023-08-23,CUST-608
+60,Monitor,Peripherals,300.00,1,2024-06-18,CUST-522
+61,Headphones,Audio,120.00,5,2023-11-04,CUST-172
+62,Power Adapter,Accessories,45.00,4,2024-01-14,CUST-528
+63,External Hard Drive,Peripherals,90.00,4,2024-06-10,CUST-650
+64,Webcam,Peripherals,60.00,4,2023-10-18,CUST-862
+65,Laptop,Computers,1200.00,2,2023-08-16,CUST-617
+66,Power Adapter,Accessories,45.00,3,2023-12-08,CUST-603
+67,Mouse,Accessories,25.00,2,2024-07-20,CUST-859
+68,Laptop,Computers,1200.00,1,2023-09-24,CUST-969
+69,Webcam,Peripherals,60.00,3,2023-12-25,CUST-605
+70,External Hard Drive,Peripherals,90.00,4,2023-09-21,CUST-666
+71,Keyboard,Accessories,75.00,3,2024-07-06,CUST-891
+72,USB Cable,Accessories,15.00,4,2024-05-09,CUST-143
+73,Laptop,Computers,1200.00,1,2023-10-17,CUST-874
+74,Monitor,Peripherals,300.00,1,2024-01-20,CUST-944
+75,Headphones,Audio,120.00,4,2024-02-12,CUST-674
+76,Docking Station,Accessories,150.00,1,2024-01-08,CUST-689
+77,Monitor,Peripherals,300.00,5,2023-12-25,CUST-990
+78,Docking Station,Accessories,150.00,4,2024-02-28,CUST-729
+79,Webcam,Peripherals,60.00,2,2024-05-01,CUST-713
+80,Headphones,Audio,120.00,3,2024-06-25,CUST-746
+81,USB Cable,Accessories,15.00,1,2023-10-10,CUST-637
+82,USB Cable,Accessories,15.00,1,2024-01-16,CUST-395
+83,Mouse,Accessories,25.00,4,2023-09-08,CUST-838
+84,USB Cable,Accessories,15.00,5,2023-08-16,CUST-218
+85,Power Adapter,Accessories,45.00,5,2023-12-19,CUST-883
+86,Docking Station,Accessories,150.00,2,2024-03-24,CUST-882
+87,Docking Station,Accessories,150.00,3,2024-03-05,CUST-774
+88,Keyboard,Accessories,75.00,2,2023-12-07,CUST-333
+89,Laptop,Computers,1200.00,4,2023-08-15,CUST-915
+90,External Hard Drive,Peripherals,90.00,4,2024-07-06,CUST-414
+91,Mouse,Accessories,25.00,3,2023-10-09,CUST-968
+92,Docking Station,Accessories,150.00,3,2023-08-30,CUST-794
+93,USB Cable,Accessories,15.00,1,2024-07-22,CUST-845
+94,External Hard Drive,Peripherals,90.00,2,2023-11-20,CUST-942
+95,Laptop,Computers,1200.00,4,2023-08-14,CUST-674
+96,Monitor,Peripherals,300.00,1,2023-11-13,CUST-802
+97,Keyboard,Accessories,75.00,4,2024-03-10,CUST-608
+98,Power Adapter,Accessories,45.00,4,2024-02-12,CUST-355
+99,Mouse,Accessories,25.00,4,2023-11-14,CUST-739
+100,External Hard Drive,Peripherals,90.00,2,2023-12-01,CUST-265
