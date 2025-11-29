@@ -1,4 +1,4 @@
-# **App Name**: BreatheEasy Navigator
+# **App Name**: BreatheSafe Navigator
 
 ## Core Features:
 
